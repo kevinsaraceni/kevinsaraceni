@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kevinsaraceni and I'm a student at National Technological University in Argentina.
+- 👋 Hi, I’m @kevinsaraceni and I'm a UX designer.
 - 👀 I’m interested in new technologies and videogames!
-- 🌱 I’m currently learning a lot of things, but JavaScript is what I'm most focused on.
+- 🌱 I’m currently learning a lot of things since this design world is completely new for me!
 - 🤝 I’m looking to collaborate on any project that would allow me to gain experience and knowledge.
 
 <!---
